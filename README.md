@@ -1,4 +1,5 @@
-# Landing Page BalleBot Rafaela Ballerini
+# Landing Page BalleBot Rafaella Ballerini
+
 
 <img align="center" src="https://hugohendrix.github.io/balle-bot-lp/ballebot.svg" width="30%">
 
